@@ -4,6 +4,10 @@ There are plenty asgi and wsgi alternatives to serve your python apps in product
 
 Keep in mind that this test is planned to test the speed at extreme conditions, that is, for the test, there were theoretically infinite requests to attend.
 
+## Results
+
+First things go first, reports could be found [here](./results).
+
 ## Servers tested
 
 * [Bjoern](https://github.com/jonashaag/bjoern): A C-implemented WSGI server, that should be the fastest of the bunch. Has the best performance for a WSGI server, but lacks some quality of life features like worker concurrency.
@@ -41,6 +45,4 @@ $ locust -f locustfile.py
 
 Visit http://localhost:8089 and have fun.
 
-## Results
 
-Could be found at [results](./results)

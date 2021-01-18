@@ -40,3 +40,8 @@ $ locust -f locustfile.py
 ```
 
 Visit http://localhost:8089 and have fun.
+
+## Results
+
+Could be found at [results](./results)
+

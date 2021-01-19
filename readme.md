@@ -20,7 +20,7 @@ First of all is recomended to deploy the server and the test to different machin
 
 ### Deploying servers
 
-First of all, install bjoern dependencies (notice that library names and packet managers may vary between operating systems).
+Start by installing bjoern dependencies (notice that library names and packet managers may vary between operating systems).
 ```
 # apt-get install python2-dev libev-dev
 ```

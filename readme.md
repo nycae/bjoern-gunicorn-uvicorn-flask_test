@@ -6,7 +6,7 @@ Keep in mind that this test is planned to test the speed at extreme conditions, 
 
 ## Results
 
-First things go first, reports could be found [here](./results).
+First things go first, reports can be found [here](./results).
 
 ## Servers tested
 
